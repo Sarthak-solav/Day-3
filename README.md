@@ -6,8 +6,9 @@
 
 That are as follows:-
 
-1. C Program to Find the Size of int, float, double and char.                 .....                             2. C Program to Demonstrate the Working of Keyword
+1. C Program to Find the Size of int, float, double and char.                 ..
+2. C Program to Demonstrate the Working of Keyword long
 
-long. 3. C Program to Swap Two Numbers.
+3. C Program to Swap Two Numbers.
 
 GitHub link:-(https://github.com/Sarthak-solav )
