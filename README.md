@@ -1,8 +1,8 @@
-#Day-3 (03/10/23)
+🎯#Day-3 (03/10/23)
 
 "Code with passion, dream with vision". #25Days_75Questions_C_Codingchallenge
 
-This is my progress report of today....I have successfully completed today's task of 3 programs.....
+⚫This is my progress report of today....I have successfully completed today's task of 3 programs.....
 
 That are as follows:-
 
